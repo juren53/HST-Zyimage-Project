@@ -1,2 +1,2 @@
 # HST-ZY-Data-Archive
-Arhciving of ZY Database
+Archiving of ZY Database
