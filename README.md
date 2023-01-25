@@ -11,11 +11,12 @@ This work is under the direction of Laurie Austin, Audiovisual Archives, Harry S
 
 Directory Structure of the ZY image database
 
-### NEWCARDS
+### -- NEWCARDS
 
-### TEXT
+### -- TEXT
 
-### TRUMAN
+### -- TRUMAN
+
 
 ## NEWCARDS directory
 
