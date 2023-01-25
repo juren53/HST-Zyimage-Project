@@ -11,7 +11,6 @@ in python please write some code the fills in the assession numbers on each line
 98-1091.txt:﻿<accession_number>98-1091 through 98-1150</accession_number>
 98-780.txt:﻿<accession_number>98-780 through 98-802</accession_number>
 
-Copy code
 accession_numbers = [
     ("98-2716", 982716, 982719),
     ("98-866", 98866, 98886),
@@ -35,7 +34,6 @@ This code creates a list of tuples, each containing the name of the file, the fi
 
 JU
 you removed the dashes is columns 2 and 3 e.g. 98.2716  should be 98-2716
-Copy code
 accession_numbers = [
     ("98-2716", "98-2716", "98-2719"),
     ("98-866", "98-866", "98-886"),
@@ -59,7 +57,7 @@ I apologize for the mistake on my previous response. In the above code, I've kep
 
 JU
 drop column 1 in the table
-Copy code
+ 
 accession_numbers = [
     ("98-2716", "98-2719"),
     ("98-866", "98-886"),
@@ -83,7 +81,7 @@ In this code, I removed the first column from the accession_numbers list, and in
 
 JU
 compute the accession numbers between columns 1 and 2 and output to  the screen
-Copy code
+ 
 accession_numbers = [
     ("98-2716", "98-2719"),
     ("98-866", "98-886"),
