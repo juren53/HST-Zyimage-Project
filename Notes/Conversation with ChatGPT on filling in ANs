@@ -107,8 +107,8 @@ Note that this code doesn't create the files, it just prints the accession numbe
 
 JU
 The accession numbers should be as shown in the original list.  For example  98-982716 is incorrect. It should be 98-2716.
-Copy code
-accession_numbers = [
+ 
+ accession_numbers = [
     ("98-2716", "98-2719"),
     ("98-866", "98-886"),
     ("98-1023", "98-1059"),
@@ -133,7 +133,7 @@ JU
 that's not what I'm looking for.    I need accession numbers between "98-2716" and "98-2719  which would be 98-2717 and 98-22718.  repeat this process through the list
 I apologize for the confusion. Here's the updated code that will generate the accession numbers between the start and end of each tuple in the list:
 
-Copy code
+ 
 accession_numbers = [
     ("98-2716", "98-2719"),
     ("98-866", "98-886"),
@@ -184,8 +184,8 @@ Then it creates a list comprehension that iterates through a range from start+1 
 
 JU
 if the second element of the tuple is a three digit number, do not add a leading 0
-Copy code
-accession_numbers = [
+ 
+ accession_numbers = [
     ("98-2716", "98-2719"),
     ("98-866", "98-886"),
     ("98-1023", "98-1059"),
