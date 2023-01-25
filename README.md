@@ -3,7 +3,7 @@ The purpose of this project is to determine if there are unique records in a ZYi
 
 This work is under the direction of Laurie Austin, Audiovisual Archives, Harry S. Truman Presidential Library.
 
-        ​  image database
+         HST Zyimage database
 
 179 directories, 32289 files - ZY image database
 
@@ -15,13 +15,13 @@ Directory Structure of the ZY image database
 
   TRUMAN
 
-        ​ NEWCARDS directory
+        NEWCARDS directory
 
 0 directories, 6833 files
 
 6810 - number of ANs in the NEWCARDS directory
 
-        ​ TEXT directory
+        TEXT directory
 
 77 directories, 10983 files
 
@@ -29,7 +29,7 @@ Directory Structure of the ZY image database
 
 2026 - number of compound ANs in TEXT directory
 
-        ​ TRUMAN directory
+        TRUMAN directory
 
 98 directories, 14468 files
 
