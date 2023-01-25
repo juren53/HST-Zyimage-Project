@@ -3,7 +3,7 @@ The purpose of this project is to determine if there are unique records in a ZYi
 
 This work is under the direction of Laurie Austin, Audiovisual Archives, Harry S. Truman Presidential Library.
 
-        ​ ZY image database
+        ​ <h2>ZY image database</h2>
 
 179 directories, 32289 files - ZY image database
 
