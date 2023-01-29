@@ -1,5 +1,5 @@
 # HST Zyimage Project
-The purpose of this project is to determine if there are unique records in a ZYimage database that should be included in the HST Photo Database.  The test for uniqueness will be determined by analyzing accession numbers in the Zyimage database versus the HST Photo Database to see if there are ANs in Zyimage that are not in the HST Photo Database.
+The purpose of this project is to determine if there are unique records in a ZYimage database that should be included in the HST Photo Database.  The test for uniqueness will be determined by analyzing accession numbers (ANs) in the Zyimage database versus the HST Photo Database to see if there are ANs in Zyimage that are not in the HST Photo Database.
 
 This work is under the direction of Laurie Austin, Audiovisual Archives, Harry S. Truman Presidential Library.
 
