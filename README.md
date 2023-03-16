@@ -40,4 +40,4 @@ Directory Structure of the ZY image database
 
 1980 - number of compound ANs in TRUMAN directory
 
-JAU 2023-02-07
+                                                                              JAU 2023-02-07
